@@ -20,3 +20,5 @@ s1=s1+a;
 System.out.println("new string is" +s1);
 }
 }
+//new line in feature2 branch
+System.out.println("in feature2 branch two lines added");
