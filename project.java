@@ -11,4 +11,12 @@ class MyClass {
         sum = x + y; // Calculate the sum of x + y
         System.out.println("Sum is: " + sum); // Print the sum
     }
+//adding string  concatatnation code \\in feature2 file
+
+public void stingCon(String a)
+{
+String s1="";
+s1=s1+a;
+System.out.println("new string is" +s1);
+}
 }
