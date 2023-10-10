@@ -19,3 +19,19 @@ double c=a+b;
 system.out.println("addition of two floating nos are "+c);
 }
 
+<<<<<<< HEAD
+=======
+}
+}
+
+//featureA  block adding string to int code
+void  StringToIntExample {
+        String numberAsString = "1234";
+        int number = Integer.parseInt(numberAsString);
+        System.out.println(number);
+    }
+//Adding one more block in featureA
+System.out.println("In FeatureB");
+
+}
+>>>>>>> release/1.0.0
