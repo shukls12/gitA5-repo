@@ -14,6 +14,8 @@ class MyClass {
 //adding a new block 
 void addition(double a,double b)
 {
+// hotfix code  
+double c=a+b;
+system.out.println("addition of two floating nos are "+c);
+}
 
-}
-}
