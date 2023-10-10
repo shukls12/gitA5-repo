@@ -14,5 +14,6 @@ class MyClass {
 //adding a new block 
 void addition(double a,double b)
 {
+
 }
 }
